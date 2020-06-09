@@ -1,16 +1,11 @@
 # first_app
 
-A new Flutter project.
+코딩에서 손을 놓은 지 324896년차인 고딩이 Flutter을 독학하기 위해 만든 낙서장.
 
-## Getting Started
+<br>
+<br>
 
-This project is a starting point for a Flutter application.
+## Caution
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+코드가 많이 더럽고 너저분합니다. 게다가 주석 처리도 제대로 되어있는 게 없죠.
+그래도 보시겠습니까? (Y/N)
