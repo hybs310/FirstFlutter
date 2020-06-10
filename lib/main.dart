@@ -149,12 +149,14 @@ class PersonTile extends StatelessWidget {
 class Person {
   String name;
   int age;
-
+ 
   Person(this.name, this.age);
 }
 
+
+
 //구 메인윈도우
-class MainWindow_old extends StatelessWidget{
+class MainwindowOld extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -248,7 +250,7 @@ class MainWindow_old extends StatelessWidget{
 } 
 
 //구 디테일윈도우
-class DetailWindow_old extends StatelessWidget {
+class DetailwindowOld extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SafeArea(
